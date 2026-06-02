@@ -1,0 +1,10 @@
+.DS_Store
+.claude/
+__pycache__/
+*.py[cod]
+
+# Demo artifacts and datasets ship as committed zip archives; the unzipped
+# folders are ignored. Decompress the zips in place locally for the notebooks.
+circuits_discovered/
+sample_visualizations/
+circuit_discovery/datasets/
